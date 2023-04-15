@@ -6,3 +6,9 @@
 mypkgname.Rcheck/
 mypkgname*.tar.gz
 mypkgname*.tgz
+<<<<<<< HEAD
+=======
+Team9.Rcheck/
+Team9*.tar.gz
+Team9*.tgz
+>>>>>>> ef0ce68c43a93928f957bb0f521a045aaefc00c3
